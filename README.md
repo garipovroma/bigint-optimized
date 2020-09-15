@@ -19,7 +19,7 @@ Big Integer implementation with optimizations, homework from C++ Course in ITMO 
 - Bitwise operations: and, or, exclusive or, not (`&, |, ^, ~`)
 - Bit shifts (`x >> y, x << y, x >>= y, x <<= y`)
 - `std::string to_string(big_integer const&)` function
-- Big Integer digits recorded in special storage(link) in `uint32_t` type and all bits of storage are used for big int representation
+- Big Integer digits recorded in special [storage](https://github.com/garipovroma/bigint-optimized/blob/master/big_integer/storage.h) in `uint32_t` type and all bits of storage are used for big int representation
 
 **Optimizations :**
 
