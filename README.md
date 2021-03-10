@@ -23,7 +23,7 @@ Big Integer implementation with optimizations, homework from C++ Course in ITMO 
 
 **Optimizations :**
 
-- Small Object Optimization(Small String Optimization(SSO)): [CppCon 2016: Nicholas Ormrod “The strange details of std::string at Facebook"](https://blogs.msmvps.com/gdicanio/2016/11/17/the-small-string-optimization/), [short article about SSO](https://blogs.msmvps.com/gdicanio/2016/11/17/the-small-string-optimization/)
+- Small Object Optimization(Small String Optimization(SSO)): [CppCon 2016: Nicholas Ormrod “The strange details of std::string at Facebook"](https://youtu.be/kPR8h4-qZdk), [short article about SSO](https://blogs.msmvps.com/gdicanio/2016/11/17/the-small-string-optimization/)
 
 - Copy on Write Optimization(CoW optimization) : [wikipedia-page](https://en.wikipedia.org/wiki/Copy-on-write) 
 
